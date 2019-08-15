@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>sbpl</name>
+  <version>1.3.1</version>
+  <description>The search-based planning library, adapted for catkin</description>
+
+  <maintainer email="vonblanckenburg@tu-berlin.de">Jasper v. Blanckenburg</maintainer>
+
+  <license>TODO</license>
+
+  <author email="maxim@cs.cmu.edu">Maxim Likhachev</author>
+  <author email="vonblanckenburg@tu-berlin.de">Jasper v. Blanckenburg</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
